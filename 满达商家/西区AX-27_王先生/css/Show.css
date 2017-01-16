@@ -1,0 +1,41 @@
+.show_fuzhuang img{
+	margin-top: 20px;
+	width: 100%;
+}
+.title_show{
+	text-align: center;
+	margin-top: 20px;
+}
+.shangpin{
+	border: 1px solid #CCCCCC;
+	box-shadow: 0px 0px 30px 2px #CCCCCC;
+	}
+.mingzi{
+	float: left;
+	margin-top: 5px;
+}
+.money{
+	color: red;
+	float: right;
+	margin-top: 5px;
+}
+.xiaoliang{
+	float: left;
+}
+.clear{
+	clear: both;
+}
+.footer_shangjia{
+	margin-top: 15px;
+}
+.gongsi{
+	border: 1px solid #CCCCCC;
+	box-shadow: 0px 0px 20px 2px #CCCCCC ;
+	padding: 3px ;
+}
+.ft{
+	margin-top: 20px;	
+}
+.ft h6{
+	padding-bottom: 5px;
+}
